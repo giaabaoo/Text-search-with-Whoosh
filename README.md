@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ```
 
 ### Running the code
-* Crawl ews data with an editable crawl_limit and do json conversion:
+* Crawl news data with an editable crawl_limit and do json conversion:
 ```
 python crawler.py
 python convert_data_json.py
